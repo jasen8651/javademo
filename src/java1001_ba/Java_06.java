@@ -1,4 +1,4 @@
-package java1005_ba;
+package java1001_ba;
 
 public class Java_06 {
 
